@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Welcome
-echo 'Server start script initialized...'
+echo 'Server start script initialized... App DEVELOP'
 
 # Set the port
 PORT=4040
